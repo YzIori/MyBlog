@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Blog Template
 
 個人ブログのテンプレートです。
@@ -39,3 +40,7 @@ yarn dev
 ## License
 
 MIT
+=======
+# MyBlog
+気になった技術等を書き留めていく
+>>>>>>> 22eecf9168cdb6ebf2b9f80c1f107d4c319034f8
