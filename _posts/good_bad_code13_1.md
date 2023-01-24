@@ -1,5 +1,5 @@
 ---
-title: '【要約】良いコード/悪いコードで学ぶ設計入門 【13章】'
+title: '【要約】良いコード/悪いコードで学ぶ設計入門 【13章 1】'
 excerpt: '良いコード/悪いコードで学ぶ設計入門の自分用まとめ'
 coverImage: '/assets/blog/dynamic-routing/good_bad_code.png'
 date: '2022-1-14'
